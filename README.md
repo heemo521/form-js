@@ -11,3 +11,17 @@ Write the simple form elements.
 Add the JavaScript code that checks validation as the user progresses through the form. When a user leaves a form field, it should automatically validate that field.
 Test out all possible cases.
 Don’t forget to style validations with CSS. You can go through our Form Validation lesson for a refresher.
+
+https://developer.mozilla.org/en-US/docs/Learn/Forms
+
+https://www.w3schools.com/js/js_validation_api.asp
+
+https://www.sitepoint.com/html-forms-constraint-validation-complete-guide/
+
+https://css-tricks.com/form-validation-ux-html-css/
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
+
+https://towardsdatascience.com/regular-expressions-clearly-explained-with-examples-822d76b037b4
+
+https://web.dev/learn/forms/form-element/
